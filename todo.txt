@@ -1,0 +1,7 @@
+change examples: banking, finance, risk modeling, insurance prediction **focus on this**
+
+shipping examples. optimization problems: routes, demand for freights based on historic data
+
+customer analytics, customer churn models
+
+fluid dynamics in oil production
