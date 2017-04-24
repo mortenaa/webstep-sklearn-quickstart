@@ -1,4 +1,4 @@
-Webstep 2016 Scikit-learn Tutorial
+Webstep 2017 Scikit-learn Tutorial
 ================================
 
 Based on the [SciPy 2016 tutorial](https://github.com/amueller/scipy-2016-sklearn) by [Kyle Kastner](https://kastnerkyle.github.io/), [Sebastian Raschka](http://sebastianraschka.com), and [Andreas Mueller](http://amueller.github.io).
@@ -18,7 +18,7 @@ parts 13 to 23 will be presented in the day 2 session.
 
 ### Schedule:
 
-The 2-part tutorial will be held on Saturday and Sunday, October 29-30, 2016.
+The 2-part tutorial will be held on Friday and Saturday, 5-6 May, 2017.
 
 - Parts 1 to 12: 9:00 AM - 3:00 PM
 - Parts 13 to 23: 9:00 AM - 3:00 PM
@@ -73,8 +73,8 @@ such as [Anaconda](https://www.continuum.io/downloads), which includes
 the most relevant Python packages for science, math, engineering, and
 data analysis; Anaconda can be downloaded and installed for free
 including commercial use and redistribution.
-The code examples in this tutorial should be compatible to Python 2.7,
-Python 3.4, and Python 3.5.
+
+The code examples in this tutorial should be compatible with Python 2.7, 3.4, 3.5, and 3.6.
 
 After obtaining the material, we **strongly recommend** that you open and execute the Jupyter Notebook
 `check_env.ipynb` that is located at the top level of this repository. You can open the notebook
